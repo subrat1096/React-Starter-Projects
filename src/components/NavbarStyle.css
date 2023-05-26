@@ -99,12 +99,12 @@
     padding: 80px 0 30px 0;
     margin: 0;
     z-index: -1;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.3s ease-in-out;
   }
 
   .nav-menu.active {
     left: 0%;
-    transition: all 0.5s;
+    transition: all 0.3s;
   }
   .nav-links {
     display: block;
